@@ -135,7 +135,7 @@ nav {
 /* ADD START */
 
 .add {
-  background-image: url(addbg.png);
+  background-image: url(img/addbg.png);
   height: 1150px;
   width: 100%;
   display: flex;
@@ -508,7 +508,7 @@ span {
 /* JOURNEY START */
 
 .journey{
-  background-image: url(journey.png);
+  background-image: url(img/journey.png);
   height: 480px;
   width: 1903px;
   transition: transform .5s;
